@@ -1,0 +1,8 @@
+.unchecked {
+    color:red;
+}
+
+.checked {
+    color:green;
+    text-decoration: line-through;
+}
